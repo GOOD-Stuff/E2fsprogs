@@ -5,7 +5,7 @@ In current time, in *./build* directory already set all configs for Zynq ARM sid
 
 In *./build/FINAL* you can find compiled sources and libraries for your Zynq.
 
-The E2fsprogs - it is package containing the utilities for handlong the ext2 file system. It also supports the ext3 and ext4 journaling file system.
+The E2fsprogs - it is package containing the utilities for handling the ext2 file system. It also supports the ext3 and ext4 journaling file system.
 
 # HOWTO
 For building with your cross-compiler, you need export next variables:
